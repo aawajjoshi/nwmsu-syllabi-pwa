@@ -1,1 +1,1 @@
-# nwsmu-syllabi-pwa
+# nwmsu-syllabi-pwa
